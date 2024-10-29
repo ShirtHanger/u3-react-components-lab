@@ -1,5 +1,14 @@
 section {
     display: flex;
-    background: linear-gradient(blue, green, silver);
-    width: auto;
+    background: linear-gradient(silver, blue, silver, green, green);
+    /* width: auto; */
+}
+
+#root {
+    text-align: center;
+    margin: auto;
+}
+
+body {
+    background: url('https://files.catbox.moe/ludi3y.jpeg');
 }
